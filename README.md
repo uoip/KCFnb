@@ -1,5 +1,5 @@
 # KCFnb
-Resolve the 'delay' problem of [KCFpy](https://github.com/uoip/KCFpy) by using the Ahead-of-Time compilation (AOT) facility of Numba.
+Solve the 'delay' problem of [KCFpy](https://github.com/uoip/KCFpy) by using the Ahead-of-Time compilation (AOT) facility of Numba.
 
 ### Requirements
 See [KCFpy](https://github.com/uoip/KCFpy)
